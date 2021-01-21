@@ -1,0 +1,128 @@
+*{
+    margin: px;
+    padding: px;
+}
+
+#col7row1{
+    float: right;
+}
+
+#row2 ul{
+    list-style: none;
+    text-align: end;
+}
+
+#row2 ul li{
+    display: inline;
+    padding: 10px;
+    margin: auto;
+}
+
+#row2 ul li a{
+    text-decoration: none;
+}
+
+#row2 ul li a:hover{
+    color: rgb(255, 7, 7);
+}
+
+#row2 ul li a img{
+    color: black;
+}
+row1{
+    
+}
+#carouselEIndicators{
+    height: 800px;
+    width: 1200px;
+    padding-right: 20px;
+
+}
+.text1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.sk{
+    padding-left: 18%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+p2.small {
+  line-height: 0.7;
+}
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+.c11{
+    padding-right: 0pxpx;
+}
+.c12{
+    padding-right: 0pxpx;
+}
+.paddingbottom
+{
+  padding-right:px;
+    align-items: center;
+}
+.col5{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.col6{
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+}
+.cr7{
+  padding-left: 255px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+}
+.row3{
+    align-content: center;
+    padding-left: 229px;
+}
+.c21{
+    padding-bottom: 40px;
+    padding-right: 100px;
+}
+.c31{
+    padding-bottom: 100px;
+    margin-left: 0px;
+    margin-right: -100px;
+    
+}
+.c40{
+    padding-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}

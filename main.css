@@ -1,0 +1,118 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar .navlink{
+    font-size: 14px;
+    text-transform: uppercase;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+    color: black;
+}
+.navbar-toggler{
+    outline: none;
+}
+.bg-black{
+    background: rgb(209, 116, 116);
+}
+#right navbarCollapse{
+    text-align: end;
+}
+.carousel-item{
+    height: 400px;
+}
+.row1{
+    padding-left: -20px;
+    margin: 20px;
+}
+.col1{
+    padding-left: -30px;
+    margin: 5px;
+}
+.col2{
+    padding-left: -30px;
+    margin: 5px;
+    padding-top: -20px;
+}
+
+
+.img1{
+    padding-top: -70px;
+}
+.row2 {
+    background-color: coral;
+}
+#carouselEIndicators{
+    height: 500px;
+    width: 700px;
+    padding-right: 20px;
+
+}
+.col5{
+    margin-left: -50px;
+}
+.col11{
+    padding-left: 100px;
+    margin: 0px;
+}
+.butt{ border: 1px outset blue;  background-color: lightBlue;
+ border-radius: 5px;
+}
+.row3{
+    padding-left: 80px;
+}
+    .c5{
+        margin: 0;
+        padding: 0;
+    }
+.card1{
+   width: 200px;
+}
+.H1{
+    align-content: center;
+}
+@media screen and (max-width: 800px) {
+    {
+     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+   }
+
+    .text1{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .navbar-items{
+        align-items: flex-end;
+    }
+    .sk
+    {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    
+    #col7row1{
+        float: right;
+    }
+    
+    #row21 ul{
+        list-style: none;
+        text-align: end;
+    }
+    
+    #row21 ul li{
+        display: inline;
+        padding: 10px;
+        margin: auto;
+    }
+    
+    #row21 ul li a{
+        text-decoration: none;
+    }
+    
+    #row21 ul li a:hover{
+        color: orange;
+    }
+    
+    #row21 ul li a img{
+        color: black;
+    }
+}
